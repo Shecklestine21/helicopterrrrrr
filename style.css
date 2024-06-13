@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background: #cbb0b0;
+  margin-top: 50px;
+}
+
+h2, p {
+  color: rgb(0, 0, 0);
+}
